@@ -45,3 +45,5 @@ To complete this project, the following software will be needed:
 * [Python 3](https://www.python.org/), [NumPy](https://numpy.org/), and [pandas](https://pandas.pydata.org/) installed using Anaconda
 * A text editor, like [Sublime](https://www.sublimetext.com/) or [Atom](https://atom.io/).
 * A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
+
+_**Documentation has been written by** Jannatun Razia with the help of Udacity guidelines._
