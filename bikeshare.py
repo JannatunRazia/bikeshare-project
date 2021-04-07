@@ -198,6 +198,12 @@ def user_stats(df,city):
 
 
 def display_data(df):
+    """
+    Ask user if they want to display five rows of raw data:
+        It will return five rows of raw data if user inputs yes and ask again,
+        It will exit when user inputs no.
+    """
+
     index=0
     user_input=input('\nWould you like to display 5 rows of raw data? Enter Yes or No\n').lower()
     while user_input in ['yes','y','yep','yea'] and index+5 < df.shape[0]:
