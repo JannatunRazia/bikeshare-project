@@ -1,4 +1,4 @@
-# **Explore US Bikeshare Data**
+# <u>**Explore US Bikeshare Data**</u>
 In this project, the bike share system usage between three large cities: Chicago, New York City, and Washington, DC will be compared. </br>
 Data provided by [Motivate](https://www.motivateco.com/) will be used here.
 
