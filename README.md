@@ -25,20 +25,17 @@ The Chicago and New York City files also have the following two columns:
 
 ### *Project Details*
 ###### The program takes user input:</br>
-for the city(Chicago, New York City or Washington), </br>
-for which month user wants to view the data(January, February, March, April, May, June or All) and </br>
-for which day(Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday or All).
+* for the city(Chicago, New York City or Washington), </br>
+* for which month user wants to view the data(January, February, March, April, May, June or All) and </br>
+* for which day(Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday or All).
 
 ###### Depending on the user input, the program shows the following output: </br>
-* _Popular times of travel:_ (most common month, most common day of week, most common hour of day)
+* Popular times of travel: (most common month, most common day of week, most common hour of day)
+* Popular stations and trip: (most common start station, most common end station, most common trip from start to end)
+* Trip duration: (total travel time, average travel time)
+* User info: (counts of each user type, counts of each gender, earliest, most recent, most common year of birth)
 
-* _Popular stations and trip:_ (most common start station, most common end station, most common trip from start to end)
-
-* _Trip duration:_ (total travel time, average travel time)
-
-* _User info:_ (counts of each user type, counts of each gender, earliest, most recent, most common year of birth)
-
-At the end it will ask if the user wants to restart the program or not.
+###### At the end it will ask if the user wants to restart the program or not.
 
 ### *Software Requirement*
 To complete this project, the following software will be needed:
